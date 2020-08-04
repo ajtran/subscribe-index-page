@@ -1,4 +1,4 @@
-# subscribe-index-page
+# subscribe-to-rollbar-html
 
 Simple HTML page with rollbar logo and form inviting users to subscribe.
 
